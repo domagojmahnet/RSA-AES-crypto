@@ -1,0 +1,9 @@
+C:\Users\domag\Documents\OS - projekt\bin\Debug\OS - projekt.exe.config
+C:\Users\domag\Documents\OS - projekt\bin\Debug\OS - projekt.exe
+C:\Users\domag\Documents\OS - projekt\bin\Debug\OS - projekt.pdb
+C:\Users\domag\Documents\OS - projekt\obj\Debug\OS - projekt.csprojAssemblyReference.cache
+C:\Users\domag\Documents\OS - projekt\obj\Debug\OS___projekt.Form1.resources
+C:\Users\domag\Documents\OS - projekt\obj\Debug\OS___projekt.Properties.Resources.resources
+C:\Users\domag\Documents\OS - projekt\obj\Debug\OS - projekt.csproj.GenerateResource.cache
+C:\Users\domag\Documents\OS - projekt\obj\Debug\OS - projekt.exe
+C:\Users\domag\Documents\OS - projekt\obj\Debug\OS - projekt.pdb
